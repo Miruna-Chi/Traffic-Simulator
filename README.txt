@@ -1,7 +1,4 @@
-Chiricu Miruna
-332CB
-
-					Tema 2 - APD
+				Traffic Simulator
 
 1. simple_semaphore:
 
